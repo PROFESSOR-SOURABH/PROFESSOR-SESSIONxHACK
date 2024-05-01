@@ -1,0 +1,45 @@
+{
+    "name": "Stranger Hack Bot",
+    "description": "A bot CAN DO ANYTHING Deployable on heroku made by PROFESSOR",
+    "logo": "https://telegra.ph/file/205f3cf027a5a11f5f70e.jpg",
+    "keywords": [
+        "TELETHON",
+        "Professor Sourabh",
+        "Telegram Bot",
+        "piro bolte",
+        "PROFESSOR"
+    ],
+    "website": "",
+    "success_url": "https://telegram.dog/PROFESSOR",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "You Telegram Bot Token from @BotFather",
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "Your API Hash from my.telegram.org",
+            "value": "462de3dfc98fd938ef9c6ee31a72d099"
+        },
+        "SUDOERS": {
+            "description": "PEOPLE WHO YOU WANT TO ADD ACCESS TO YOUR BOT",
+            "value": "7074689169 6743351433"
+        },
+        "API_ID": {
+            "description": "Your API ID from my.telegram.org",
+            "value": "29308061"
+        },
+         "MONGO_URL": {
+            "description": "MONGO DB URL ",
+            "value": "mongodb+srv://SourabhProfessor:SourabhProfessor@cluster0.a0bz4ht.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+         },
+          "LOG_GROUP_ID": {
+            "description": "CHANNEL ID WHERE YOUR BOT WILL SEND UPDATES ",
+            "value": "-1002066605904"
+          },
+      
+          "MUST_JOIN": {
+            "description": "FORCE SUBSCRIBE BOT EX - @Friends_Chatting_Group_Friends_0",
+            "value": "Friends_Chatting_Group_Friends_0"
+        }
+    }
+}
