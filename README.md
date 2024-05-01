@@ -64,7 +64,7 @@ python3 -m Hack
 
 ### HEROKU
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PROFESSOR-SOURABH/PROFESSOR-SESSION-HACK)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PROFESSOR-SOURABH/PROFESSOR-SESSIONxHACK)
 
 ## Support
 
