@@ -22,7 +22,7 @@
         },
         "SUDOERS": {
             "description": "PEOPLE WHO YOU WANT TO ADD ACCESS TO YOUR BOT",
-            "value": "7074689169 6743351433"
+            "value": "7122997452"
         },
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
@@ -34,12 +34,12 @@
          },
           "LOG_GROUP_ID": {
             "description": "CHANNEL ID WHERE YOUR BOT WILL SEND UPDATES ",
-            "value": "-1002066605904"
+            "value": "-1002107213547"
           },
       
           "MUST_JOIN": {
-            "description": "FORCE SUBSCRIBE BOT EX - @Friends_Chatting_Group_Friends_0",
-            "value": "Friends_Chatting_Group_Friends_0"
+            "description": "FORCE SUBSCRIBE BOT EX - @Friends_Chatting_Masti_Group",
+            "value": "Friends_Chatting_Masti_Group"
         }
     }
 }
